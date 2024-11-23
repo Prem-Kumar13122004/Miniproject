@@ -1,4 +1,4 @@
-# Title of the Project: Medical Image Analysis Using CNN
+# Title of the Project: Medical Image Analysis with CNNs
 
 # About
 It is a deep learning-powered project designed to analyze medical images such as X-raycscans using Convolutional Neural Networks (CNNs). Traditional medical diagnostics often rely on manual interpretation, which can be time-consuming and prone to errors. MedVision addresses these challenges by integrating advanced image classification, segmentation, and feature extraction techniques, enabling precise and automated analysis.
